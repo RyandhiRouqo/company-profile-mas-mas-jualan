@@ -7,10 +7,10 @@ import Testimoni from "./components/Testimoni";
 export default function Home() {
   return (
     <>
-    <Hero/>
-    <CompanyOverview/>
-    <ProductIntro/>
-    <Testimoni/>
+      <Hero />
+      <CompanyOverview />
+      <ProductIntro />
+      <Testimoni />
     </>
   );
 }

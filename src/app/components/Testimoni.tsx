@@ -19,7 +19,7 @@ const Testimoni = () => {
                                     <AvatarFallback>CN</AvatarFallback>
                                 </Avatar>
                             </div>
-                            <div className="col-span-4 text-xs text-white">
+                            <div className="col-span-4 text-xs text-white pr-2">
                                 <div className="flex flex-col gap-2">
                                     <p>I bought a phone on Mas-Mas Jualan and it was exactly as described! It's in great condition and works perfectly. I'm really happy with my purchase.</p>
                                     <p>Albert Einstein, <span className="text-mythemes-lightgrey">Scientist</span></p>
@@ -34,10 +34,10 @@ const Testimoni = () => {
                                     <AvatarFallback>CN</AvatarFallback>
                                 </Avatar>
                             </div>
-                            <div className="col-span-4 text-xs text-white">
+                            <div className="col-span-4 text-xs text-white pr-2">
                                 <div className="flex flex-col gap-2">
-                                    <p>I bought a phone on Mas-Mas Jualan and it was exactly as described! It's in great condition and works perfectly. I'm really happy with my purchase.</p>
-                                    <p>Albert Einstein, <span className="text-mythemes-lightgrey">Scientist</span></p>
+                                    <p>I found the perfect phone at an amazing price on Mas-Mas Jualan! It was super easy to browse and buy. Thanks, Mas-Mas Jualan, I Love You!</p>
+                                    <p>Jamie L, <span className="text-mythemes-lightgrey">Pilot</span></p>
                                 </div>
                             </div>
                         </div>
@@ -49,15 +49,15 @@ const Testimoni = () => {
                                     <AvatarFallback>CN</AvatarFallback>
                                 </Avatar>
                             </div>
-                            <div className="col-span-4 text-xs text-white">
+                            <div className="col-span-4 text-xs text-white pr-2">
                                 <div className="flex flex-col gap-2">
-                                    <p>I bought a phone on Mas-Mas Jualan and it was exactly as described! It's in great condition and works perfectly. I'm really happy with my purchase.</p>
-                                    <p>Albert Einstein, <span className="text-mythemes-lightgrey">Scientist</span></p>
+                                    <p>Selling my old phone on Mas-Mas Jualan was a breeze! I got a fair price and the whole process was smooth. Definitely recommending Mas-Mas Jualan to my friends!</p>
+                                    <p>Michael C., <span className="text-mythemes-lightgrey">Lecture</span></p>
                                 </div>
                             </div>
                         </div>
 
-                        
+
                     </div>
                 </div>
             </div>

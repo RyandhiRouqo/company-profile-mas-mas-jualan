@@ -4,7 +4,7 @@ import { asap } from "@/lib/fonts"
 const Teams = () => {
     return (
         <div>
-            <div className="bg-mythemes-black pt-4 pb-4 md:px-28">
+            <div className="bg-mythemes-black pt-4 pb-4 px-4 md:px-28">
                 <h3 className={`text-mythemes-yellow text-center ${asap.className} font-bold pb-4 md:text-xl`}>Our Leadership</h3>
                 <div className="px-4 pt-4 pb-4 border-2 border-mythemes-lightgrey">
                     <div className="flex flex-col md:flex-row items-center gap-10 md:gap-4">
